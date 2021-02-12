@@ -3,7 +3,7 @@
 
 ## 🌎 Web Technologies  - 
 
-1. [Vanilla JS Project]()
+1. [Vanilla JS Project](https://github.com/TriptoAfsin/vanilla-js-project)
 2. [React Project]()
 3. [Typescript Project]()
 
