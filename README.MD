@@ -12,9 +12,10 @@
 ## 🤖 Chatbots  - 
 
 1. [Messenger Chatbot](https://github.com/TriptoAfsin/messenger-node-chatbot)
+2. [Discord Chatbot]()
 
 ## ☁ Cloud Configs  - 
 1. [Heroku Node]()
 
 ## 🟣 Other Projects - 
-1. [JSON Server]()
+1. [JSON Server](https://github.com/TriptoAfsin/json-server-boilerplate)
